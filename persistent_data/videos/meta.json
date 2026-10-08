@@ -1,0 +1,52 @@
+{
+  "insertion": {
+    "algoId": "insertion",
+    "algorithmId": "insertion",
+    "name": "Insertion Sort Video",
+    "filename": "insertion.mp4",
+    "url": "/Videos/insertion.mp4",
+    "size": 8326863,
+    "mimeType": "video/mp4",
+    "isLocked": true,
+    "locked": true,
+    "uploadedAt": "2026-10-05T17:10:46.533Z"
+  },
+  "selection": {
+    "algoId": "selection",
+    "algorithmId": "selection",
+    "name": "Selection Sort Video",
+    "filename": "selection.mp4",
+    "url": "/Videos/selection.mp4",
+    "size": 6940434,
+    "mimeType": "video/mp4",
+    "isLocked": true,
+    "locked": true,
+    "uploadedAt": "2026-10-05T17:11:02.238Z"
+  },
+  "bubble": {
+    "algoId": "bubble",
+    "algorithmId": "bubble-sort",
+    "mapping": "visualizeVideos/sorting/bubble-sort",
+    "name": "Bubble Sort Video",
+    "filename": "bubble.mp4",
+    "url": "/Videos/bubble.mp4",
+    "size": 1126744,
+    "mimeType": "video/mp4",
+    "isLocked": true,
+    "locked": true,
+    "uploadedAt": "2026-09-08T00:00:00.000Z"
+  },
+  "bubble-sort": {
+    "algoId": "bubble-sort",
+    "algorithmId": "bubble-sort",
+    "mapping": "visualizeVideos/sorting/bubble-sort",
+    "name": "Bubble Sort Video",
+    "filename": "bubble.mp4",
+    "url": "/Videos/bubble.mp4",
+    "size": 1126744,
+    "mimeType": "video/mp4",
+    "isLocked": true,
+    "locked": true,
+    "uploadedAt": "2026-09-08T00:00:00.000Z"
+  }
+}

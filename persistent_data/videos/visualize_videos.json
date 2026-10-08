@@ -1,0 +1,56 @@
+{
+  "visualizeVideos/sorting/insertion-sort": {
+    "algorithmId": "insertion-sort",
+    "algoId": "insertion",
+    "name": "Insertion Sort Video",
+    "filename": "insertion.mp4",
+    "storagePath": "/Videos/insertion.mp4",
+    "url": "/Videos/insertion.mp4",
+    "directUrl": "/Videos/insertion.mp4",
+    "locked": true,
+    "isLocked": true,
+    "size": 8326863,
+    "mimeType": "video/mp4"
+  },
+  "visualizeVideos/sorting/selection-sort": {
+    "algorithmId": "selection-sort",
+    "algoId": "selection",
+    "name": "Selection Sort Video",
+    "filename": "selection.mp4",
+    "storagePath": "/Videos/selection.mp4",
+    "url": "/Videos/selection.mp4",
+    "directUrl": "/Videos/selection.mp4",
+    "locked": true,
+    "isLocked": true,
+    "size": 6940434,
+    "mimeType": "video/mp4"
+  },
+  "visualizeVideos/data-structures/stack": {
+    "algorithmId": "stack",
+    "algoId": "stack",
+    "name": "Stack Operations.mp4",
+    "filename": "Stack Operations.mp4",
+    "storagePath": "/Videos/Stack Operations.mp4",
+    "url": "/Videos/Stack Operations.mp4",
+    "directUrl": "/Videos/Stack Operations.mp4",
+    "locked": true,
+    "isLocked": true,
+    "size": 3792713,
+    "mimeType": "video/mp4",
+    "duration": 80
+  },
+  "visualizeVideos/sorting/bubble-sort": {
+    "algorithmId": "bubble-sort",
+    "algoId": "bubble-sort",
+    "name": "Bubble Sort Video",
+    "filename": "bubble.mp4",
+    "storagePath": "/Videos/bubble.mp4",
+    "url": "/Videos/bubble.mp4",
+    "directUrl": "/Videos/bubble.mp4",
+    "locked": true,
+    "isLocked": true,
+    "size": 1126744,
+    "mimeType": "video/mp4",
+    "duration": 59
+  }
+}
